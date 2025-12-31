@@ -1,5 +1,6 @@
 # cpp-programming-project
 This is my first Git Repository.
 <br>
-Author - Kashish sharma(project)
+Author - Kashish sharma
+
 
