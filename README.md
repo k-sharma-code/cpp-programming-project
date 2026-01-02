@@ -15,3 +15,12 @@ I created the program to streghten my understanding of:
 This program takes three number from the user and compares them step by step to determine the greatest value.
 Writting this code helped me understand now logical conditions works in decision making problem.
 
+---
+Object-oriented Programming(oops)
+Iin this section, I am applying OOPs concept like Classes,Object,Encapsulation etc
+
+ATM Machine System (C++)
+This is a simple ATM system implemented in C++ using basic Object-Oriented Programming concepts.
+The project focuses on secure PIN verification and allows withdrawal only after successful authentication.
+Proper checks are applied to handle wrong PIN, insufficient balance, and invalid amounts.
+This project was created to strengthen my understanding of real-world logic and system design using C++.
